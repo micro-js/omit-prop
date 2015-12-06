@@ -2,7 +2,7 @@
   "name": "@micro-js/omit-prop",
   "description": "Non-destructively omit a nested property",
   "repository": "git://github.com/micro-js/omit-prop.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {

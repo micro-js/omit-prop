@@ -10,12 +10,12 @@ Non-destructively omit a nested property
 
 ## Installation
 
-    $ npm install @micro-js/omit-prop
+    $ npm install @f/omit-prop
 
 ## Usage
 
 ```js
-var omitProp = require('@micro-js/omit-prop')
+var omitProp = require('@f/omit-prop')
 
 ```
 
@@ -37,5 +37,5 @@ MIT
 [git-url]: https://github.com/micro-js/omit-prop
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/omit-prop.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/omit-prop
+[npm-image]: https://img.shields.io/npm/v/@f/omit-prop.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/omit-prop
